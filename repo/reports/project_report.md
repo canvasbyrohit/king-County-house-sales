@@ -169,4 +169,4 @@ slight heteroscedasticity at luxury tier (>$1M) — expected and documented.
 ---
 
 *B141 Data Mining | King County House Sales Project*
-*Dataset: https://www.kaggle.com/datasets/harlfoxem/housesalespredictions*
+*Dataset: [https://www.kaggle.com/datasets/harlfoxem/housesalespredictions](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)*
