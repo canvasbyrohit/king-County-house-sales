@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29147132/README.md)
 # 🏠 King County House Sales — Data Mining Project
 ### B141 Data Mining | University Submission
 
