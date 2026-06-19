@@ -3,8 +3,8 @@
 # Phase 3: Data Collection, Cleaning & Preprocessing
 # =============================================================================
 # Dataset : House Sales in King County, USA
-# Source  : https://www.kaggle.com/datasets/harlfoxem/housesalespredictions
-# Author  : [Your Name]
+# Source  : https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
+# Author  : HARLFOXEM 
 # =============================================================================
 
 # ── CELL 1 : Install & Import ─────────────────────────────────────────────────
