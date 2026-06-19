@@ -1,0 +1,6 @@
+Model,Test R²,CV R²,CV Std
+Linear Reg,0.8133,0.864,0.0028
+Ridge,0.8134,0.864,0.0027
+Lasso,0.814,0.864,0.0028
+Random Forest,0.8568,0.8882,0.0016
+Grad Boosting,0.9122,0.895,0.002

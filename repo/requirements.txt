@@ -1,0 +1,31 @@
+# ============================================================
+# B141 Data Mining — King County House Sales
+# Python Dependencies
+# ============================================================
+# Install with: pip install -r requirements.txt
+# Python version: 3.10+
+
+# Core Data
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualisation
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+
+# Statistical Analysis
+scipy>=1.10.0
+
+# Notebook Environment
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional — Recommended for production deployment
+# xgboost>=1.7.0
+# lightgbm>=3.3.0
+# shap>=0.42.0          # Model explainability
+# geopandas>=0.13.0     # Advanced spatial analysis
+# plotly>=5.14.0        # Interactive visualisations
