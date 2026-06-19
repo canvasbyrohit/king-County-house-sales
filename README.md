@@ -39,7 +39,7 @@ the market into actionable investment tiers.
 | Property | Detail |
 |---|---|
 | **Name** | House Sales in King County, USA |
-| **Source** | [Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalespredictions) |
+| **Source** | https://www.kaggle.com/datasets/harlfoxem/housesalesprediction |
 | **Records** | 21,613 transactions |
 | **Features** | 21 original + 9 engineered = 30 total |
 | **Period** | May 2014 – May 2015 |
@@ -245,7 +245,7 @@ This project is licensed under the **MIT Licence** — see [LICENSE](LICENSE) fo
 
 ## 🙏 Acknowledgements
 
-- Dataset: [harlfoxem on Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalespredictions)
+- Dataset: https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
 - Original data source: King County Department of Assessments
 - Module: B141 Data Mining
 
