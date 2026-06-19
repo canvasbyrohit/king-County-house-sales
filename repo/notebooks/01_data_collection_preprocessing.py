@@ -36,7 +36,7 @@ print(f"   numpy   : {np.__version__}")
 DATA COLLECTION
 ===============
 Source  : Kaggle — House Sales in King County, USA
-URL     : https://www.kaggle.com/datasets/harlfoxem/housesalespredictions
+URL     : https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
 Period  : May 2014 – May 2015
 Method  : Direct CSV download (public dataset, no authentication required)
 Licence : CC0 Public Domain
