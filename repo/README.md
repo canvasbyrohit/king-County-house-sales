@@ -39,7 +39,7 @@ the market into actionable investment tiers.
 | Property | Detail |
 |---|---|
 | **Name** | House Sales in King County, USA |
-| **Source** | [Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalespredictions) |
+| **Source** | [Kaggle]([https://www.kaggle.com/datasets/harlfoxem/housesalespredictions](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)) |
 | **Records** | 21,613 transactions |
 | **Features** | 21 original + 9 engineered = 30 total |
 | **Period** | May 2014 – May 2015 |
